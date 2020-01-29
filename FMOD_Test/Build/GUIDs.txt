@@ -1,0 +1,14 @@
+{6a1a9dac-2447-43cd-906d-5719c81884d6} bank:/Master Bank
+{f207bd78-553c-0f8f-1624-dde739eb824e} bank:/Master Bank.strings
+{852d7ebe-331a-4d4a-8eda-9bd181b9f1ed} bus:/
+{cd71ccce-3d83-4158-99ea-8970c79fc98b} bus:/Reverb
+{bb220141-1348-428c-9cd1-b673fa067cd4} event:/Music 2D
+{7c44a66b-4b76-4f4e-8040-802bbde0147f} event:/SFX/Jump_Sound
+{1d1dcd44-a3ef-4f10-83cd-90245d9d277c} event:/SFX/WaterDropSFX
+{71873e82-0821-46e6-89fe-c33718aa9077} parameter:/Ground
+{add65017-cd19-4766-8c97-d6a4c093aef9} parameter:/Near Lava
+{585a0714-5ccf-4ee3-8727-45d364c387cd} parameter:/Sky Ver 1
+{3d8fa40c-a93d-4560-87a1-13d5cc024304} parameter:/Sky Ver 2
+{a57d2d70-86a0-4e6c-8554-cde603c3d213} parameter:/To Main
+{ee6438cb-c4df-436f-b0ad-0d6bf1dbaa35} parameter:/To Sky
+{4c0cadfb-631b-46f1-8e92-b6218ebcec49} parameter:/Water

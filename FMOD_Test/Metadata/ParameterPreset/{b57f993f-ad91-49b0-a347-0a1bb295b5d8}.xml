@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{b57f993f-ad91-49b0-a347-0a1bb295b5d8}">
+		<property name="name">
+			<value>Sky Ver 1</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b27561bf-ea40-4e8d-b358-f9d7d5c46482}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{585a0714-5ccf-4ee3-8727-45d364c387cd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{585a0714-5ccf-4ee3-8727-45d364c387cd}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.75000005960464478</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>0.77000004053115845</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+	</object>
+</objects>

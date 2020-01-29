@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{cde3ad1f-1fc3-40f7-ba13-521b5eceea20}">
+        <property name="assetPath">
+            <value>BG_Water-100bpm4-4_L6M-P0-Synth2.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>15.4</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{7fde2e71-ef9c-4400-ab55-610eaa6bba85}</destination>
+        </relationship>
+    </object>
+</objects>

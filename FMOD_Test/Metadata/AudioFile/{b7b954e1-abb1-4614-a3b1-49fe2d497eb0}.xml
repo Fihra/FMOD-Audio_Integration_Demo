@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b7b954e1-abb1-4614-a3b1-49fe2d497eb0}">
+		<property name="assetPath">
+			<value>water_drop_SFX.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4280045351473922</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7fde2e71-ef9c-4400-ab55-610eaa6bba85}</destination>
+		</relationship>
+	</object>
+</objects>

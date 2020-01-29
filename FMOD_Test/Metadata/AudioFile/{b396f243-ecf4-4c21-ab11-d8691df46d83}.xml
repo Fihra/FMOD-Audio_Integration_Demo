@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{b396f243-ecf4-4c21-ab11-d8691df46d83}">
+        <property name="assetPath">
+            <value>BG_Water-100bpm4-4_L6M-P0-Glock.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>15.4</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{7fde2e71-ef9c-4400-ab55-610eaa6bba85}</destination>
+        </relationship>
+    </object>
+</objects>

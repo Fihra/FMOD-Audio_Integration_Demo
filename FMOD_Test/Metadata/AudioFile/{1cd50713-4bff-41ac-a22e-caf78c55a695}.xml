@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{1cd50713-4bff-41ac-a22e-caf78c55a695}">
+		<property name="assetPath">
+			<value>Underwater_Ambience_SFX_Project.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.333333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7fde2e71-ef9c-4400-ab55-610eaa6bba85}</destination>
+		</relationship>
+	</object>
+</objects>

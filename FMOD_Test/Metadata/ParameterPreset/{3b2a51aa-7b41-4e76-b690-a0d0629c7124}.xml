@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{3b2a51aa-7b41-4e76-b690-a0d0629c7124}">
+		<property name="name">
+			<value>Water</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b27561bf-ea40-4e8d-b358-f9d7d5c46482}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4c0cadfb-631b-46f1-8e92-b6218ebcec49}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4c0cadfb-631b-46f1-8e92-b6218ebcec49}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.76000005006790161</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>0.97000008821487427</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+	</object>
+</objects>
